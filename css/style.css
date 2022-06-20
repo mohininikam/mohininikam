@@ -210,11 +210,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
-<<<<<<< HEAD
-  border-radius: 50%;
-=======
   border-radius: 13%;
->>>>>>> aeeb0de (first commit)
 }
 #fh5co-header .display-tc .fh5co-social-icons li a,
 .fh5co-cover .display-tc .fh5co-social-icons li a {
